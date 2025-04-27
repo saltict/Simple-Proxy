@@ -1,0 +1,9 @@
+.branding {
+    display: flex;
+    flex-direction: column;
+}
+
+#option-config {
+    margin-left: auto;
+    margin-right: auto;
+}

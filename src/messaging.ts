@@ -1,0 +1,1 @@
+export const Connection = chrome.runtime.connect({name: 'extension'})
